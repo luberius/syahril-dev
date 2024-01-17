@@ -1,2 +1,2 @@
 #/bin/bash
-php -S localhost:6969
+cd app && php -S localhost:6969

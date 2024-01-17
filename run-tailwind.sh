@@ -1,2 +1,2 @@
 #/bin/bash
-tailwindcss -i css/main.css -o css/main.bin.css --watch
+tailwindcss -i app/css/main.css -o app/css/main.bin.css --watch
